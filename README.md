@@ -26,3 +26,11 @@ This is a modern, responsive website built using HTML, CSS, and Bootstrap, based
 
 - A modern web browser (e.g., Chrome, Firefox).
 - A code editor (e.g., VSCode) if you wish to make modifications.
+
+
+## License
+
+This project uses the **BizLand Bootstrap Template** by [BootstrapMade](https://bootstrapmade.com/), which is licensed under the [BootstrapMade License](https://bootstrapmade.com/license/).
+
+The custom content and modifications made to the template are licensed under the [MIT License](LICENSE).
+
